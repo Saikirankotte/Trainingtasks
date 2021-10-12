@@ -1,0 +1,11 @@
+{
+  {
+    "ConnectionStrings": {
+      "DefaultConnection": "Server=(LocalDb)\\MSSQLLocalDB;Database=TRAIN;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+
+
+
+  }
+
+}

@@ -1,0 +1,6 @@
+C:\Users\SAILS-DM149\source\repos\TrainTask\Train\bin\Debug\Train.dacpac
+C:\Users\SAILS-DM149\source\repos\TrainTask\Train\bin\Debug\Train.dll
+C:\Users\SAILS-DM149\source\repos\TrainTask\Train\bin\Debug\Train.pdb
+C:\Users\SAILS-DM149\source\repos\TrainTask\Train\obj\Debug\Train.sqlproj.AssemblyReference.cache
+C:\Users\SAILS-DM149\source\repos\TrainTask\Train\obj\Debug\Train.dll
+C:\Users\SAILS-DM149\source\repos\TrainTask\Train\obj\Debug\Train.pdb
